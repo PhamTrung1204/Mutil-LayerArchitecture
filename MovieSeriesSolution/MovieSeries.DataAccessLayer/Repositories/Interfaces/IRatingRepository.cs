@@ -11,6 +11,8 @@ namespace MovieSeries.DataAccessLayer.Repositories.Interfaces
     {
         Task<IEnumerable<Ratings>> GetAllAsync();
         Task<Ratings> GetByIdAsync(int id);
+     
+
         Task AddAsync(Ratings rating);
         Task UpdateAsync(Ratings rating);
         Task DeleteAsync(int id);

@@ -1,157 +1,205 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\",
+  "WorkspaceRootPath": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E32C3E6D-3EC9-4DA4-BA6F-59C7811AAE80}|MovieSeries.BusinessLayer\\MovieSeries.BusinessLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.businesslayer\\ratingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E32C3E6D-3EC9-4DA4-BA6F-59C7811AAE80}|MovieSeries.BusinessLayer\\MovieSeries.BusinessLayer.csproj|solutionrelative:movieseries.businesslayer\\ratingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseriessolution.tests\\repositories\\ratingrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|solutionrelative:movieseriessolution.tests\\repositories\\ratingrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\ratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\ratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseriessolution.tests\\repositories\\movierepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|solutionrelative:movieseriessolution.tests\\repositories\\movierepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|solutionrelative:movieseries.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseriessolution.tests\\models\\ratingstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|solutionrelative:movieseriessolution.tests\\models\\ratingstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\controllers\\movieseriestagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|solutionrelative:movieseries.api\\controllers\\movieseriestagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseriessolution.tests\\models\\movietests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|solutionrelative:movieseriessolution.tests\\models\\movietests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseriessolution.tests\\controllers\\ratingcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|solutionrelative:movieseriessolution.tests\\controllers\\ratingcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseriessolution.tests\\controllers\\moviecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|solutionrelative:movieseriessolution.tests\\controllers\\moviecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseriessolution.tests\\services\\movieservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|solutionrelative:movieseriessolution.tests\\services\\movieservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseriessolution.tests\\services\\ratingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|solutionrelative:movieseriessolution.tests\\services\\ratingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseriessolution.tests\\utilities\\datehelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|solutionrelative:movieseriessolution.tests\\utilities\\datehelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|solutionrelative:movieseries.api\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|solutionrelative:movieseries.api\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|solutionrelative:movieseries.api\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\movieseriestagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\movieseriestagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\imovieseriestagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\imovieseriestagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|solutionrelative:movieseries.api\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|solutionrelative:movieseries.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\movieseriestagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\movieseriestagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\interfaces\\imovieseriestagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\interfaces\\imovieseriestagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\interfaces\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\interfaces\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\interfaces\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\ratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\ratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|solutionrelative:movieseries.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\interfaces\\imovieseriestagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\interfaces\\imovieseriestagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseriessolution.tests\\movieseriessolution.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|solutionrelative:movieseriessolution.tests\\movieseriessolution.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseriessolution.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA46367-82EE-4AB8-ACDD-2A7A56DDBEF5}|MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj|solutionrelative:movieseriessolution.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32C3E6D-3EC9-4DA4-BA6F-59C7811AAE80}|MovieSeries.BusinessLayer\\MovieSeries.BusinessLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.businesslayer\\ratingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32C3E6D-3EC9-4DA4-BA6F-59C7811AAE80}|MovieSeries.BusinessLayer\\MovieSeries.BusinessLayer.csproj|solutionrelative:movieseries.businesslayer\\ratingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\controllers\\movieseriestagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|solutionrelative:movieseries.api\\controllers\\movieseriestagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|solutionrelative:movieseries.api\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\movieseriestagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\movieseriestagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\imovieseriestagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\imovieseriestagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\movieseriestagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\movieseriestagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|solutionrelative:movieseries.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\interfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\interfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\interfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.servicelayer\\services\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|solutionrelative:movieseries.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|c:\\users\\84967\\downloads\\git clone http\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|d:\\\u0111\u1EA1i h\u1ECDc ueh\\h\u1ECDc k\u1EF3 6 ueh\\ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\b\u00E0i t\u1EADp upload github\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|solutionrelative:movieseries.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -162,19 +210,343 @@
       "DocumentGroups": [
         {
           "DockedWidth": 285,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RatingControllerTests.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Controllers\\RatingControllerTests.cs",
+              "RelativeDocumentMoniker": "MovieSeriesSolution.Tests\\Controllers\\RatingControllerTests.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Controllers\\RatingControllerTests.cs",
+              "RelativeToolTip": "MovieSeriesSolution.Tests\\Controllers\\RatingControllerTests.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAqwDEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:36:18.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RatingsTests.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Models\\RatingsTests.cs",
+              "RelativeDocumentMoniker": "MovieSeriesSolution.Tests\\Models\\RatingsTests.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Models\\RatingsTests.cs",
+              "RelativeToolTip": "MovieSeriesSolution.Tests\\Models\\RatingsTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:06:23.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieTests.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Models\\MovieTests.cs",
+              "RelativeDocumentMoniker": "MovieSeriesSolution.Tests\\Models\\MovieTests.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Models\\MovieTests.cs",
+              "RelativeToolTip": "MovieSeriesSolution.Tests\\Models\\MovieTests.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwBwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:46:55.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieRepositoryTests.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Repositories\\MovieRepositoryTests.cs",
+              "RelativeDocumentMoniker": "MovieSeriesSolution.Tests\\Repositories\\MovieRepositoryTests.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Repositories\\MovieRepositoryTests.cs",
+              "RelativeToolTip": "MovieSeriesSolution.Tests\\Repositories\\MovieRepositoryTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA2wBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:47:16.11Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RatingRepositoryTests.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Repositories\\RatingRepositoryTests.cs",
+              "RelativeDocumentMoniker": "MovieSeriesSolution.Tests\\Repositories\\RatingRepositoryTests.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Repositories\\RatingRepositoryTests.cs",
+              "RelativeToolTip": "MovieSeriesSolution.Tests\\Repositories\\RatingRepositoryTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:07:58.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieControllerTests.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Controllers\\MovieControllerTests.cs",
+              "RelativeDocumentMoniker": "MovieSeriesSolution.Tests\\Controllers\\MovieControllerTests.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Controllers\\MovieControllerTests.cs",
+              "RelativeToolTip": "MovieSeriesSolution.Tests\\Controllers\\MovieControllerTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:45:47.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieServiceTests.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Services\\MovieServiceTests.cs",
+              "RelativeDocumentMoniker": "MovieSeriesSolution.Tests\\Services\\MovieServiceTests.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Services\\MovieServiceTests.cs",
+              "RelativeToolTip": "MovieSeriesSolution.Tests\\Services\\MovieServiceTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:46:13.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RatingServiceTests.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Services\\RatingServiceTests.cs",
+              "RelativeDocumentMoniker": "MovieSeriesSolution.Tests\\Services\\RatingServiceTests.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Services\\RatingServiceTests.cs",
+              "RelativeToolTip": "MovieSeriesSolution.Tests\\Services\\RatingServiceTests.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAADcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:15:44.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DateHelperTests.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Utilities\\DateHelperTests.cs",
+              "RelativeDocumentMoniker": "MovieSeriesSolution.Tests\\Utilities\\DateHelperTests.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Utilities\\DateHelperTests.cs",
+              "RelativeToolTip": "MovieSeriesSolution.Tests\\Utilities\\DateHelperTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:47:46.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RatingController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\RatingController.cs",
+              "RelativeDocumentMoniker": "MovieSeries.API\\Controllers\\RatingController.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\RatingController.cs",
+              "RelativeToolTip": "MovieSeries.API\\Controllers\\RatingController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:15:27.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RatingService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\RatingService.cs",
+              "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\RatingService.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\RatingService.cs",
+              "RelativeToolTip": "MovieSeries.ServiceLayer\\Services\\RatingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:14:37.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\TagController.cs",
+              "RelativeDocumentMoniker": "MovieSeries.API\\Controllers\\TagController.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\TagController.cs",
+              "RelativeToolTip": "MovieSeries.API\\Controllers\\TagController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:54:54.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRatingService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IRatingService.cs",
+              "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\IRatingService.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IRatingService.cs",
+              "RelativeToolTip": "MovieSeries.ServiceLayer\\Services\\IRatingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:14:13.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieSeries.API\\Controllers\\MovieController.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieSeries.API\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:44:02.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRatingRepository.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IRatingRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IRatingRepository.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IRatingRepository.cs",
+              "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IRatingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:09:12.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RatingRepository.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\RatingRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\RatingRepository.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\RatingRepository.cs",
+              "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\RatingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:09:32.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ratings.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Ratings.cs",
+              "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\Ratings.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Ratings.cs",
+              "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\Ratings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:04:17.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:51:27.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IMovieService.cs",
+              "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\IMovieService.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IMovieService.cs",
+              "RelativeToolTip": "MovieSeries.ServiceLayer\\Services\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:22:50.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\Movie.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Movie.cs",
+              "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:06:48.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:58:56.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IMovieSeriesTagRepository.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IMovieSeriesTagRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IMovieSeriesTagRepository.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IMovieSeriesTagRepository.cs",
+              "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IMovieSeriesTagRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:21:25.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MovieSeriesSolution.Tests",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj",
+              "RelativeDocumentMoniker": "MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj",
+              "RelativeToolTip": "MovieSeriesSolution.Tests\\MovieSeriesSolution.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T09:43:02.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MovieSeriesSolution.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "MovieSeriesSolution.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:41:00.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "RatingCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.BusinessLayer\\RatingCalculator.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.BusinessLayer\\RatingCalculator.cs",
               "RelativeDocumentMoniker": "MovieSeries.BusinessLayer\\RatingCalculator.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.BusinessLayer\\RatingCalculator.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.BusinessLayer\\RatingCalculator.cs",
               "RelativeToolTip": "MovieSeries.BusinessLayer\\RatingCalculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -183,89 +555,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 25,
               "Title": "MovieSeriesTagController.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\MovieSeriesTagController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\MovieSeriesTagController.cs",
               "RelativeDocumentMoniker": "MovieSeries.API\\Controllers\\MovieSeriesTagController.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\MovieSeriesTagController.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\MovieSeriesTagController.cs",
               "RelativeToolTip": "MovieSeries.API\\Controllers\\MovieSeriesTagController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:28:26.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:28:26.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 26,
               "Title": "ReviewController.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\ReviewController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\ReviewController.cs",
               "RelativeDocumentMoniker": "MovieSeries.API\\Controllers\\ReviewController.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\ReviewController.cs",
               "RelativeToolTip": "MovieSeries.API\\Controllers\\ReviewController.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAgwDsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:26:32.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:26:32.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RatingController.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\RatingController.cs",
-              "RelativeDocumentMoniker": "MovieSeries.API\\Controllers\\RatingController.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\RatingController.cs",
-              "RelativeToolTip": "MovieSeries.API\\Controllers\\RatingController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDYAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:15:27.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ratings.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Ratings.cs",
-              "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\Ratings.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Ratings.cs",
-              "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\Ratings.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:04:17.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TagController.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\TagController.cs",
-              "RelativeDocumentMoniker": "MovieSeries.API\\Controllers\\TagController.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\TagController.cs",
-              "RelativeToolTip": "MovieSeries.API\\Controllers\\TagController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAswA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:54:54.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MovieController.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\MovieController.cs",
-              "RelativeDocumentMoniker": "MovieSeries.API\\Controllers\\MovieController.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\MovieController.cs",
-              "RelativeToolTip": "MovieSeries.API\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:44:02.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 28,
               "Title": "IMovieSeriesTagService.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IMovieSeriesTagService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IMovieSeriesTagService.cs",
               "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\IMovieSeriesTagService.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IMovieSeriesTagService.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IMovieSeriesTagService.cs",
               "RelativeToolTip": "MovieSeries.ServiceLayer\\Services\\IMovieSeriesTagService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -273,11 +591,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 27,
               "Title": "MovieSeriesTagService.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\MovieSeriesTagService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\MovieSeriesTagService.cs",
               "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\MovieSeriesTagService.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\MovieSeriesTagService.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\MovieSeriesTagService.cs",
               "RelativeToolTip": "MovieSeries.ServiceLayer\\Services\\MovieSeriesTagService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAcwCcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -285,11 +603,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 29,
               "Title": "MovieService.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\MovieService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\MovieService.cs",
               "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\MovieService.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\MovieService.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\MovieService.cs",
               "RelativeToolTip": "MovieSeries.ServiceLayer\\Services\\MovieService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -297,11 +615,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 30,
               "Title": "ReviewService.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\ReviewService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\ReviewService.cs",
               "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\ReviewService.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\ReviewService.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\ReviewService.cs",
               "RelativeToolTip": "MovieSeries.ServiceLayer\\Services\\ReviewService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -309,11 +627,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 31,
               "Title": "IReviewService.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IReviewService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IReviewService.cs",
               "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\IReviewService.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IReviewService.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IReviewService.cs",
               "RelativeToolTip": "MovieSeries.ServiceLayer\\Services\\IReviewService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -321,35 +639,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IMovieService.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IMovieService.cs",
-              "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\IMovieService.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IMovieService.cs",
-              "RelativeToolTip": "MovieSeries.ServiceLayer\\Services\\IMovieService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:22:50.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IRatingService.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IRatingService.cs",
-              "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\IRatingService.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IRatingService.cs",
-              "RelativeToolTip": "MovieSeries.ServiceLayer\\Services\\IRatingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:14:13.208Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 33,
               "Title": "TagService.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\TagService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\TagService.cs",
               "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\TagService.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\TagService.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\TagService.cs",
               "RelativeToolTip": "MovieSeries.ServiceLayer\\Services\\TagService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -357,23 +651,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RatingService.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\RatingService.cs",
-              "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\RatingService.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\RatingService.cs",
-              "RelativeToolTip": "MovieSeries.ServiceLayer\\Services\\RatingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:14:37.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 32,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IUserService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\IUserService.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IUserService.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IUserService.cs",
               "RelativeToolTip": "MovieSeries.ServiceLayer\\Services\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -381,11 +663,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 35,
               "Title": "IReviewRepository.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IReviewRepository.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IReviewRepository.cs",
               "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IReviewRepository.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IReviewRepository.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IReviewRepository.cs",
               "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IReviewRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -393,11 +675,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 36,
               "Title": "MovieSeriesTagRepository.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\MovieSeriesTagRepository.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\MovieSeriesTagRepository.cs",
               "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\MovieSeriesTagRepository.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\MovieSeriesTagRepository.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\MovieSeriesTagRepository.cs",
               "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\MovieSeriesTagRepository.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwDMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -405,23 +687,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IMovieSeriesTagRepository.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IMovieSeriesTagRepository.cs",
-              "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IMovieSeriesTagRepository.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IMovieSeriesTagRepository.cs",
-              "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IMovieSeriesTagRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:21:25.183Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 34,
               "Title": "ReviewRepository.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\ReviewRepository.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\ReviewRepository.cs",
               "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\ReviewRepository.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\ReviewRepository.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\ReviewRepository.cs",
               "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\ReviewRepository.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAUwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -429,11 +699,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 37,
               "Title": "MovieSeriesTag.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\MovieSeriesTag.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\MovieSeriesTag.cs",
               "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\MovieSeriesTag.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\MovieSeriesTag.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\MovieSeriesTag.cs",
               "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\MovieSeriesTag.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -441,11 +711,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 38,
               "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Review.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Review.cs",
               "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\Review.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Review.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Review.cs",
               "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\Review.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -453,23 +723,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "RatingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\RatingRepository.cs",
-              "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\RatingRepository.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\RatingRepository.cs",
-              "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\RatingRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:09:32.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 39,
               "Title": "TagRepository.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\TagRepository.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\TagRepository.cs",
               "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\TagRepository.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\TagRepository.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\TagRepository.cs",
               "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\TagRepository.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAkwDMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -477,11 +735,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 40,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\AppDbContext.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\AppDbContext.cs",
               "RelativeToolTip": "MovieSeries.DataAccessLayer\\AppDbContext.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAowA8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -489,35 +747,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IRatingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IRatingRepository.cs",
-              "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IRatingRepository.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IRatingRepository.cs",
-              "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IRatingRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:09:12.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Movie.cs",
-              "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\Movie.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Movie.cs",
-              "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:06:48.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 43,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\UserController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "MovieSeries.API\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\UserController.cs",
               "RelativeToolTip": "MovieSeries.API\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -525,11 +759,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 44,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\UserService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\UserService.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\UserService.cs",
               "RelativeToolTip": "MovieSeries.ServiceLayer\\Services\\UserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -537,23 +771,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:58:56.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 42,
               "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Tag.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Tag.cs",
               "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\Tag.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Tag.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Tag.cs",
               "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\Tag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -561,11 +783,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 41,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\User.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\User.cs",
               "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\User.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\User.cs",
               "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -573,11 +795,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 45,
               "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IUserRepository.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IUserRepository.cs",
               "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -585,11 +807,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 47,
               "Title": "ITagService.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\ITagService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\ITagService.cs",
               "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\ITagService.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\ITagService.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\ITagService.cs",
               "RelativeToolTip": "MovieSeries.ServiceLayer\\Services\\ITagService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -597,11 +819,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 46,
               "Title": "ITagRepository.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\ITagRepository.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\ITagRepository.cs",
               "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\ITagRepository.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\ITagRepository.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\ITagRepository.cs",
               "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\ITagRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -609,11 +831,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 49,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\appsettings.json",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\appsettings.json",
               "RelativeDocumentMoniker": "MovieSeries.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\appsettings.json",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\appsettings.json",
               "RelativeToolTip": "MovieSeries.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -621,11 +843,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 48,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Program.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Program.cs",
               "RelativeDocumentMoniker": "MovieSeries.API\\Program.cs",
-              "ToolTip": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Program.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Program.cs",
               "RelativeToolTip": "MovieSeries.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

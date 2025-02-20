@@ -42,5 +42,6 @@ namespace MovieSeries.ServiceLayer.Services
         {
             await _ratingRepository.DeleteAsync(id);
         }
+        
     }
 }

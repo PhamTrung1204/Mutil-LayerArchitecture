@@ -14,5 +14,6 @@ namespace MovieSeries.ServiceLayer.Services
         Task AddRatingAsync(Ratings rating);
         Task UpdateRatingAsync(Ratings rating);
         Task DeleteRatingAsync(int id);
+       
     }
 }

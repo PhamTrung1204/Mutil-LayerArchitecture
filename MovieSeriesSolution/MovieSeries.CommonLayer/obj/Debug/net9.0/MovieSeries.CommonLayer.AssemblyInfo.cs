@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovieSeries.CommonLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+424ba504202a79c9bb26f61f4028ce1587ea536c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ece2d0c89f99c8c132ab3f65f60750df1145122b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovieSeries.CommonLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovieSeries.CommonLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
