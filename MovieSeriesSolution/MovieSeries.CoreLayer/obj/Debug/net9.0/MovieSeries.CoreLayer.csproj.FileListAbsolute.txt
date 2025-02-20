@@ -1,0 +1,14 @@
+C:\Users\84967\Downloads\SOA_BTNhóm_200225\MovieSeriesSolution\MovieSeries.CoreLayer\bin\Debug\net9.0\MovieSeries.CoreLayer.deps.json
+C:\Users\84967\Downloads\SOA_BTNhóm_200225\MovieSeriesSolution\MovieSeries.CoreLayer\bin\Debug\net9.0\MovieSeries.CoreLayer.runtimeconfig.json
+C:\Users\84967\Downloads\SOA_BTNhóm_200225\MovieSeriesSolution\MovieSeries.CoreLayer\bin\Debug\net9.0\MovieSeries.CoreLayer.dll
+C:\Users\84967\Downloads\SOA_BTNhóm_200225\MovieSeriesSolution\MovieSeries.CoreLayer\bin\Debug\net9.0\MovieSeries.CoreLayer.pdb
+C:\Users\84967\Downloads\SOA_BTNhóm_200225\MovieSeriesSolution\MovieSeries.CoreLayer\obj\Debug\net9.0\MovieSeries.CoreLayer.csproj.AssemblyReference.cache
+C:\Users\84967\Downloads\SOA_BTNhóm_200225\MovieSeriesSolution\MovieSeries.CoreLayer\obj\Debug\net9.0\MovieSeries.CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84967\Downloads\SOA_BTNhóm_200225\MovieSeriesSolution\MovieSeries.CoreLayer\obj\Debug\net9.0\MovieSeries.CoreLayer.AssemblyInfoInputs.cache
+C:\Users\84967\Downloads\SOA_BTNhóm_200225\MovieSeriesSolution\MovieSeries.CoreLayer\obj\Debug\net9.0\MovieSeries.CoreLayer.AssemblyInfo.cs
+C:\Users\84967\Downloads\SOA_BTNhóm_200225\MovieSeriesSolution\MovieSeries.CoreLayer\obj\Debug\net9.0\MovieSeries.CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\84967\Downloads\SOA_BTNhóm_200225\MovieSeriesSolution\MovieSeries.CoreLayer\obj\Debug\net9.0\MovieSeries.CoreLayer.dll
+C:\Users\84967\Downloads\SOA_BTNhóm_200225\MovieSeriesSolution\MovieSeries.CoreLayer\obj\Debug\net9.0\refint\MovieSeries.CoreLayer.dll
+C:\Users\84967\Downloads\SOA_BTNhóm_200225\MovieSeriesSolution\MovieSeries.CoreLayer\obj\Debug\net9.0\MovieSeries.CoreLayer.pdb
+C:\Users\84967\Downloads\SOA_BTNhóm_200225\MovieSeriesSolution\MovieSeries.CoreLayer\obj\Debug\net9.0\MovieSeries.CoreLayer.genruntimeconfig.cache
+C:\Users\84967\Downloads\SOA_BTNhóm_200225\MovieSeriesSolution\MovieSeries.CoreLayer\obj\Debug\net9.0\ref\MovieSeries.CoreLayer.dll
