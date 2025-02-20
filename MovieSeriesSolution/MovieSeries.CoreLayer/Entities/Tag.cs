@@ -5,6 +5,7 @@ namespace MovieSeries.CoreLayer.Entities
 {
     public class Tag
     {
+        [Key]
         public int tag_id { get; set; }
 
         [Required(ErrorMessage = "TagName là bắt buộc.")]

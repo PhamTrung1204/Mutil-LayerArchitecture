@@ -10,3 +10,15 @@ C:\Users\84967\Downloads\GIT CLONE HTTP\Mutil-LayerArchitecture\MovieSeriesSolut
 C:\Users\84967\Downloads\GIT CLONE HTTP\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.CommonLayer\obj\Debug\net9.0\refint\MovieSeries.CommonLayer.dll
 C:\Users\84967\Downloads\GIT CLONE HTTP\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.CommonLayer\obj\Debug\net9.0\MovieSeries.CommonLayer.pdb
 C:\Users\84967\Downloads\GIT CLONE HTTP\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.CommonLayer\obj\Debug\net9.0\ref\MovieSeries.CommonLayer.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.CommonLayer\bin\Debug\net9.0\MovieSeries.CommonLayer.deps.json
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.CommonLayer\bin\Debug\net9.0\MovieSeries.CommonLayer.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.CommonLayer\bin\Debug\net9.0\MovieSeries.CommonLayer.pdb
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.CommonLayer\obj\Debug\net9.0\MovieSeries.CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.CommonLayer\obj\Debug\net9.0\MovieSeries.CommonLayer.AssemblyInfoInputs.cache
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.CommonLayer\obj\Debug\net9.0\MovieSeries.CommonLayer.AssemblyInfo.cs
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.CommonLayer\obj\Debug\net9.0\MovieSeries.CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.CommonLayer\obj\Debug\net9.0\MovieSeries.CommonLayer.sourcelink.json
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.CommonLayer\obj\Debug\net9.0\MovieSeries.CommonLayer.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.CommonLayer\obj\Debug\net9.0\refint\MovieSeries.CommonLayer.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.CommonLayer\obj\Debug\net9.0\MovieSeries.CommonLayer.pdb
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.CommonLayer\obj\Debug\net9.0\ref\MovieSeries.CommonLayer.dll

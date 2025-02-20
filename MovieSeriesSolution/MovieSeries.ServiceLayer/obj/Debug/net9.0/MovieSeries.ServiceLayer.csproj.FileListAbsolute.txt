@@ -41,3 +41,28 @@ D:\Đại học UEH\Học kỳ 6 UEH\Kiến trúc phần mềm hướng dịch v
 D:\Đại học UEH\Học kỳ 6 UEH\Kiến trúc phần mềm hướng dịch vụ\Bài tập upload github\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\obj\Debug\net9.0\refint\MovieSeries.ServiceLayer.dll
 D:\Đại học UEH\Học kỳ 6 UEH\Kiến trúc phần mềm hướng dịch vụ\Bài tập upload github\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\obj\Debug\net9.0\MovieSeries.ServiceLayer.pdb
 D:\Đại học UEH\Học kỳ 6 UEH\Kiến trúc phần mềm hướng dịch vụ\Bài tập upload github\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\obj\Debug\net9.0\ref\MovieSeries.ServiceLayer.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\bin\Debug\net9.0\testhost.exe
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\bin\Debug\net9.0\testhost.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\bin\Debug\net9.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\bin\Debug\net9.0\MovieSeries.CoreLayer.deps.json
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\bin\Debug\net9.0\MovieSeries.CoreLayer.runtimeconfig.json
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\bin\Debug\net9.0\MovieSeries.ServiceLayer.deps.json
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\bin\Debug\net9.0\MovieSeries.ServiceLayer.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\bin\Debug\net9.0\MovieSeries.ServiceLayer.pdb
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\bin\Debug\net9.0\MovieSeries.CoreLayer.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\bin\Debug\net9.0\MovieSeries.DataAccessLayer.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\bin\Debug\net9.0\MovieSeries.CoreLayer.pdb
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\bin\Debug\net9.0\MovieSeries.DataAccessLayer.pdb
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\obj\Debug\net9.0\MovieSeries.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\obj\Debug\net9.0\MovieSeries.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\obj\Debug\net9.0\MovieSeries.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\obj\Debug\net9.0\MovieSeries.ServiceLayer.AssemblyInfo.cs
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\obj\Debug\net9.0\MovieSeries.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\obj\Debug\net9.0\MovieSeries.ServiceLayer.sourcelink.json
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\obj\Debug\net9.0\MovieSer.BB55BBF2.Up2Date
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\obj\Debug\net9.0\MovieSeries.ServiceLayer.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\obj\Debug\net9.0\refint\MovieSeries.ServiceLayer.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\obj\Debug\net9.0\MovieSeries.ServiceLayer.pdb
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.ServiceLayer\obj\Debug\net9.0\ref\MovieSeries.ServiceLayer.dll

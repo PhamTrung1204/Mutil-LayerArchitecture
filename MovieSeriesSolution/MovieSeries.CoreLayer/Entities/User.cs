@@ -10,6 +10,7 @@ namespace MovieSeries.CoreLayer.Entities
     public class User
     {
         // Primary key, ánh xạ với user_id
+        [Key]
         public int user_id { get; set; } // 
 
         [Required(ErrorMessage = "Username là bắt buộc.")]

@@ -20,20 +20,20 @@ namespace MovieSeries.DataAccessLayer.Repositories
         // Phương thức lấy tất cả phim
         public async Task<IEnumerable<MoviesSeries>> GetAllMoviesAsync()
         {
-            return await _context.Movies.ToListAsync();
+            return await _context.MoviesSeries.ToListAsync();
         }
 
         // Phương thức thêm phim mới
         public async Task AddMovieAsync(MoviesSeries movie)
         {
-            await _context.Movies.AddAsync(movie);
+            await _context.MoviesSeries.AddAsync(movie);
             await _context.SaveChangesAsync();
         }
 
         // Phương thức gọi Stored Procedure lấy top phim được đánh giá cao
         public async Task<IEnumerable<MoviesSeries>> GetTopRatedMoviesWithSpAsync(int topCount)
         {
-            return await _context.Movies
+            return await _context.MoviesSeries
                 .FromSqlRaw("EXEC GetTopRatedMovies @top_count = {0}", topCount)
                 .ToListAsync();
         }

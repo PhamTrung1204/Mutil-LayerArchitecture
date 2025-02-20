@@ -21,7 +21,7 @@ namespace MovieSeries.DataAccessLayer.Repositories
         public async Task<IEnumerable<MovieSeriesTag>> GetAllAsync()
         {
             return await _context.MovieSeriesTags
-                .Include(mst => mst.Movie)
+                
                 .Include(mst => mst.Tag)
                 .ToListAsync();
         }
@@ -29,7 +29,7 @@ namespace MovieSeries.DataAccessLayer.Repositories
         public async Task<MovieSeriesTag> GetByIdsAsync(int movieSeriesId, int tagId)
         {
             return await _context.MovieSeriesTags
-                .Include(mst => mst.Movie)
+                
                 .Include(mst => mst.Tag)
                 .FirstOrDefaultAsync(mst => mst.movie_series_id == movieSeriesId && mst.tag_id == tagId);
         }

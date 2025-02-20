@@ -4,3 +4,26 @@ C:\Users\84967\Downloads\GIT CLONE HTTP\Mutil-LayerArchitecture\MovieSeriesSolut
 C:\Users\84967\Downloads\GIT CLONE HTTP\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSeries.BusinessLayer.AssemblyInfo.cs
 C:\Users\84967\Downloads\GIT CLONE HTTP\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSeries.BusinessLayer.csproj.CoreCompileInputs.cache
 C:\Users\84967\Downloads\GIT CLONE HTTP\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSeries.BusinessLayer.sourcelink.json
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\bin\Debug\net9.0\MovieSeries.CoreLayer.deps.json
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\bin\Debug\net9.0\MovieSeries.CoreLayer.runtimeconfig.json
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\bin\Debug\net9.0\testhost.exe
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\bin\Debug\net9.0\testhost.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\bin\Debug\net9.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\bin\Debug\net9.0\MovieSeries.BusinessLayer.deps.json
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\bin\Debug\net9.0\MovieSeries.BusinessLayer.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\bin\Debug\net9.0\MovieSeries.BusinessLayer.pdb
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\bin\Debug\net9.0\MovieSeries.CoreLayer.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\bin\Debug\net9.0\MovieSeries.CoreLayer.pdb
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSeries.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSeries.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSeries.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSeries.BusinessLayer.AssemblyInfo.cs
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSeries.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSeries.BusinessLayer.sourcelink.json
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSer.C49AF3A3.Up2Date
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSeries.BusinessLayer.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\refint\MovieSeries.BusinessLayer.dll
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSeries.BusinessLayer.pdb
+C:\Users\PhamTrung\Desktop\SOA-MultiLayerArchitecture\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\ref\MovieSeries.BusinessLayer.dll

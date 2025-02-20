@@ -9,6 +9,7 @@ namespace MovieSeries.CoreLayer.Entities
 {
     public class Review
     {
+        [Key]
         public int review_id { get; set; }
 
         [Required(ErrorMessage = "UserId là bắt buộc.")]

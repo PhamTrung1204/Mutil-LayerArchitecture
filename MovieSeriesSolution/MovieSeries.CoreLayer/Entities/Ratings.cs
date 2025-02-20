@@ -5,6 +5,7 @@ namespace MovieSeries.CoreLayer.Entities
 {
     public class Ratings
     {
+        [Key]
         public int rating_id { get; set; }
 
         [Required(ErrorMessage = "UserId là bắt buộc.")]
