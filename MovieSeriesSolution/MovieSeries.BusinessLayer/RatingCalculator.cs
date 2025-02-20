@@ -11,7 +11,7 @@ namespace MovieSeries.BusinessLayer
             if (ratings == null || !ratings.Any())
                 return 0;
 
-            return ratings.Average(r => r.Value);
+            return ratings.Average(r => r.Score);
         }
     }
 }

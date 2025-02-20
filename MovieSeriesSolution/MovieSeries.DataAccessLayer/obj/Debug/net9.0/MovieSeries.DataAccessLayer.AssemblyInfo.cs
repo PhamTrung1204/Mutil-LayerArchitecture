@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovieSeries.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d894195fdc44445781603e9f20316f471e8a7719")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+424ba504202a79c9bb26f61f4028ce1587ea536c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovieSeries.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovieSeries.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

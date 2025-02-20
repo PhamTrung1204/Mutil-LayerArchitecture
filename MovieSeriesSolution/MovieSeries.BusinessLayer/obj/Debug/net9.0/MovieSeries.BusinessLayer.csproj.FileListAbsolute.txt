@@ -1,0 +1,6 @@
+C:\Users\84967\Downloads\GIT CLONE HTTP\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSeries.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\84967\Downloads\GIT CLONE HTTP\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSeries.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84967\Downloads\GIT CLONE HTTP\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSeries.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\84967\Downloads\GIT CLONE HTTP\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSeries.BusinessLayer.AssemblyInfo.cs
+C:\Users\84967\Downloads\GIT CLONE HTTP\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSeries.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\84967\Downloads\GIT CLONE HTTP\Mutil-LayerArchitecture\MovieSeriesSolution\MovieSeries.BusinessLayer\obj\Debug\net9.0\MovieSeries.BusinessLayer.sourcelink.json
