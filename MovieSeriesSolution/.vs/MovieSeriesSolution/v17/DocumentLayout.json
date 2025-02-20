@@ -140,7 +140,7 @@
               "RelativeDocumentMoniker": "MovieSeriesSolution.Tests\\Controllers\\MovieSeriesTagControllerTests.cs",
               "ToolTip": "D:\\\u0110\u1EA1i h\u1ECDc UEH\\H\u1ECDc k\u1EF3 6 UEH\\Ki\u1EBFn tr\u00FAc ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\B\u00E0i t\u1EADp upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeriesSolution.Tests\\Controllers\\MovieSeriesTagControllerTests.cs",
               "RelativeToolTip": "MovieSeriesSolution.Tests\\Controllers\\MovieSeriesTagControllerTests.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAjwDoAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T14:01:53.657Z",
               "EditorCaption": ""
@@ -155,8 +155,7 @@
               "RelativeToolTip": "MovieSeriesSolution.Tests\\Services\\MovieSeriesTagServiceTests.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAYwEAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:55:07.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:55:07.587Z"
             },
             {
               "$type": "Document",
@@ -168,8 +167,7 @@
               "RelativeToolTip": "MovieSeriesSolution.Tests\\Models\\MovieSeriesTagTests.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAYwC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:53:07.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:53:07.182Z"
             },
             {
               "$type": "Document",
@@ -181,8 +179,7 @@
               "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\MovieSeriesTag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:46:36.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T12:46:36.174Z"
             },
             {
               "$type": "Document",
@@ -194,8 +191,7 @@
               "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\MoviesSeries.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:27:47.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T12:27:47.817Z"
             },
             {
               "$type": "Document",
@@ -207,8 +203,7 @@
               "RelativeToolTip": "MovieSeriesSolution.Tests\\Repositories\\MovieSeriesTagRepositoryTests.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAYwEkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:54:28.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:54:28.421Z"
             },
             {
               "$type": "Document",
@@ -220,8 +215,7 @@
               "RelativeToolTip": "MovieSeriesSolution.Tests\\Controllers\\ReviewControllerTests.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAYwFoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:48:45.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:48:45.474Z"
             },
             {
               "$type": "Document",
@@ -233,8 +227,7 @@
               "RelativeToolTip": "MovieSeriesSolution.Tests\\Services\\ReviewServiceTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:48:16.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:48:16.558Z"
             },
             {
               "$type": "Document",
@@ -246,8 +239,7 @@
               "RelativeToolTip": "MovieSeriesSolution.Tests\\Repositories\\ReviewRepositoryTests.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAYwEoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:47:39.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:47:39.907Z"
             },
             {
               "$type": "Document",
@@ -259,8 +251,7 @@
               "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\Ratings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:36:56.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T12:36:56.392Z"
             },
             {
               "$type": "Document",
@@ -272,8 +263,7 @@
               "RelativeToolTip": "MovieSeriesSolution.Tests\\Models\\ReviewTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:46:12.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:46:12.602Z"
             },
             {
               "$type": "Document",
@@ -285,8 +275,7 @@
               "RelativeToolTip": "MovieSeriesSolution.Tests\\Controllers\\TagControllerTests.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAowFoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:42:32.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:42:32.989Z"
             },
             {
               "$type": "Document",
@@ -298,8 +287,7 @@
               "RelativeToolTip": "MovieSeriesSolution.Tests\\Services\\TagServiceTests.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAgwEYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:41:47.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:41:47.466Z"
             },
             {
               "$type": "Document",
@@ -311,8 +299,7 @@
               "RelativeToolTip": "MovieSeriesSolution.Tests\\Repositories\\TagRepositoryTests.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAkwEUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:41:10.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:41:10.22Z"
             },
             {
               "$type": "Document",
@@ -324,8 +311,7 @@
               "RelativeToolTip": "MovieSeriesSolution.Tests\\Models\\TagTests.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAwCoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:40:20.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:40:20.952Z"
             },
             {
               "$type": "Document",
@@ -337,8 +323,7 @@
               "RelativeToolTip": "MovieSeriesSolution.Tests\\Controllers\\UserControllerTests.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAgwEsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:35:04.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:35:04.707Z"
             },
             {
               "$type": "Document",
@@ -350,8 +335,7 @@
               "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\Review.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:48:44.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T12:48:44.868Z"
             },
             {
               "$type": "Document",
@@ -363,8 +347,7 @@
               "RelativeToolTip": "MovieSeriesSolution.Tests\\Services\\UserServiceTests.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAkwEMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:33:23.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:33:23.83Z"
             },
             {
               "$type": "Document",
@@ -376,8 +359,7 @@
               "RelativeToolTip": "MovieSeriesSolution.Tests\\Repositories\\UserRepositoryTests.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAgwEAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:28:56.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:28:56.339Z"
             },
             {
               "$type": "Document",
@@ -389,8 +371,7 @@
               "RelativeToolTip": "MovieSeriesSolution.Tests\\Models\\UserTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:21:39.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:21:39.717Z"
             },
             {
               "$type": "Document",
@@ -402,8 +383,7 @@
               "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\Tag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:45:59.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T12:45:59.485Z"
             },
             {
               "$type": "Document",
@@ -427,8 +407,7 @@
               "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\User.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAmwAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:28:31.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T12:28:31.373Z"
             },
             {
               "$type": "Document",
@@ -440,8 +419,7 @@
               "RelativeToolTip": "MovieSeries.API\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:29:26.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T12:29:26.266Z"
             },
             {
               "$type": "Document",
@@ -453,8 +431,7 @@
               "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:29:54.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T12:29:54.445Z"
             },
             {
               "$type": "Document",

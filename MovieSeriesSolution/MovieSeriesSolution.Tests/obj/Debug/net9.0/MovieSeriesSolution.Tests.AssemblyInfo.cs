@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovieSeriesSolution.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+391cab6fea9cd0c9610eaad86c8052f2d1407620")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+366f468cf14c3467631b982e4e6578fbe641e1e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovieSeriesSolution.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovieSeriesSolution.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
