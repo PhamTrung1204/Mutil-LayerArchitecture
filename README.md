@@ -82,7 +82,7 @@
 
 - **👨‍💻 Phạm Trung**: Cơ sở dữ liệu & Stored Procedures
 - **👩‍💻 Nguyễn Hoàng Minh Tấn**: Triển khai Backend API
-- **👨‍🔬 Nguyễn Tuấn Dũng**: Kiểm thử đơn vị & tích hợp
+- **👩‍💻 Nguyễn Tuấn Dũng**: Kiểm thử đơn vị & tích hợp
 
 ## 📜 Giấy Phép
 
