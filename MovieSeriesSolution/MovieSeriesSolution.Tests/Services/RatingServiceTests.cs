@@ -25,7 +25,7 @@ namespace MovieSeriesSolution.Tests.Services
         public async Task AddRatingAsync_ShouldThrowException_WhenValueIsInvalid()
         {
             // Arrange
-            var rating = new Ratings { UserId = 1, MovieSeriesId = 10, Score = 15 }; // Sai
+            var rating = new Ratings { user_id = 1, movie_series_id = 10, rating = 15 }; // Sai
 
             // Act & Assert
             await Assert.ThrowsAsync<ArgumentException>(() =>
@@ -36,7 +36,7 @@ namespace MovieSeriesSolution.Tests.Services
         public async Task AddRatingAsync_ShouldCallRepositoryAdd_WhenValueIsValid()
         {
             // Arrange
-            var rating = new Ratings { UserId = 1, MovieSeriesId = 10, Score = 8 };
+            var rating = new Ratings { user_id = 1, movie_series_id = 10, rating = 8 };
             _ratingRepoMock.Setup(r => r.AddAsync(rating))
                            .Returns(Task.CompletedTask);
 
@@ -53,8 +53,8 @@ namespace MovieSeriesSolution.Tests.Services
             // Arrange
             var mockRatings = new List<Ratings>
             {
-                new Ratings { Id = 1, Score = 7 },
-                new Ratings { Id = 2, Score = 9 },
+                new Ratings { rating_id = 1, rating = 7 },
+                new Ratings { rating_id = 2, rating = 9 },
             };
             _ratingRepoMock.Setup(r => r.GetAllAsync())
                            .ReturnsAsync(mockRatings);
@@ -70,7 +70,7 @@ namespace MovieSeriesSolution.Tests.Services
         public async Task GetRatingByIdAsync_ShouldReturnRating()
         {
             // Arrange
-            var rating = new Ratings { Id = 10, Score = 5 };
+            var rating = new Ratings { rating_id = 10, rating = 5 };
             _ratingRepoMock.Setup(r => r.GetByIdAsync(10))
                            .ReturnsAsync(rating);
 
@@ -78,8 +78,8 @@ namespace MovieSeriesSolution.Tests.Services
             var result = await _ratingService.GetRatingByIdAsync(10);
 
             // Assert
-            Assert.Equal(10, result.Id);
-            Assert.Equal(5, result.Score);
+            Assert.Equal(10, result.rating_id);
+            Assert.Equal(5, result.rating);
         }
     }
 }

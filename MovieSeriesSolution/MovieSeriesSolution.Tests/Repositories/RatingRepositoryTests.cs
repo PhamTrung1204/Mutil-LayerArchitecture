@@ -22,7 +22,7 @@ namespace MovieSeriesSolution.Tests.Repositories
         public async Task AddAsync_ShouldCallAddAsync_WhenRatingIsValid()
         {
             // Arrange
-            var rating = new Ratings { UserId = 1, MovieSeriesId = 10, Score = 8 };
+            var rating = new Ratings { user_id = 1, movie_series_id = 10, rating = 8 };
             _repositoryMock.Setup(r => r.AddAsync(rating))
                            .Returns(Task.CompletedTask);
 
@@ -39,8 +39,8 @@ namespace MovieSeriesSolution.Tests.Repositories
             // Arrange
             var ratings = new List<Ratings>
             {
-                new Ratings { Id = 1, UserId = 1, MovieSeriesId = 10, Score = 7 },
-                new Ratings { Id = 2, UserId = 2, MovieSeriesId = 10, Score = 9 }
+                new Ratings { rating_id = 1, user_id = 1, movie_series_id = 10, rating = 7 },
+                new Ratings { rating_id = 2, user_id = 2, movie_series_id = 10, rating = 9 }
             };
 
             _repositoryMock.Setup(r => r.GetAllAsync()).ReturnsAsync(ratings);
@@ -56,7 +56,7 @@ namespace MovieSeriesSolution.Tests.Repositories
         public async Task GetByIdAsync_ShouldReturnCorrectRating()
         {
             // Arrange
-            var rating = new Ratings { Id = 5, Score = 6 };
+            var rating = new Ratings { rating_id = 5, rating = 6 };
             _repositoryMock.Setup(r => r.GetByIdAsync(5))
                            .ReturnsAsync(rating);
 
@@ -64,8 +64,8 @@ namespace MovieSeriesSolution.Tests.Repositories
             var result = await _repositoryMock.Object.GetByIdAsync(5);
 
             // Assert
-            Assert.Equal(5, result.Id);
-            Assert.Equal(6, result.Score);
+            Assert.Equal(5, result.rating_id);
+            Assert.Equal(6, result.rating);
         }
     }
 }

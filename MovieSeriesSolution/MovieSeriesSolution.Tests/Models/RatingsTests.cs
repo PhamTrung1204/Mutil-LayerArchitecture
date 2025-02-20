@@ -22,9 +22,9 @@ namespace MovieSeriesSolution.Tests.Models
             // Arrange
             var rating = new Ratings
             {
-                Score = ratingValue,
-                UserId = 1,   // Giả sử bắt buộc
-                Id = 1   // Giả sử bắt buộc
+                rating = ratingValue,
+                user_id = 1,   // Giả sử bắt buộc
+                rating_id = 1   // Giả sử bắt buộc
             };
 
             // Act

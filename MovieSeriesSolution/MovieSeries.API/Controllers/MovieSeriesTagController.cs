@@ -38,7 +38,7 @@ namespace MovieSeries.API.Controllers
                 return BadRequest(ModelState);
 
             await _service.AddAsync(movieSeriesTag);
-            return CreatedAtAction(nameof(Get), new { movieSeriesId = movieSeriesTag.MovieSeriesId, tagId = movieSeriesTag.TagId }, movieSeriesTag);
+            return CreatedAtAction(nameof(Get), new { movieSeriesId = movieSeriesTag.movie_series_id, tagId = movieSeriesTag.tag_id }, movieSeriesTag);
         }
 
         [HttpDelete("{movieSeriesId}/{tagId}")]

@@ -8,7 +8,7 @@ namespace MovieSeries.DataAccessLayer
     public class AppDbContext : DbContext
     {
         // Các DbSet ánh xạ đến các bảng trong cơ sở dữ liệu
-        public DbSet<Movie> Movies { get; set; }
+        public DbSet<MoviesSeries> Movies { get; set; }
         public DbSet<Review> Reviews { get; set; }
         public DbSet<Tag> Tags { get; set; }
         public DbSet<User> Users { get; set; }
@@ -21,17 +21,17 @@ namespace MovieSeries.DataAccessLayer
         {
             // Cấu hình cho bảng trung gian (nhiều - nhiều) giữa Movies và Tags
             modelBuilder.Entity<MovieSeriesTag>()
-                .HasKey(mst => new { mst.MovieSeriesId, mst.TagId });
+                .HasKey(mst => new { mst.movie_series_id, mst.tag_id });
 
             modelBuilder.Entity<MovieSeriesTag>()
                 .HasOne(mst => mst.Movie)
                 .WithMany(m => m.MovieSeriesTags)
-                .HasForeignKey(mst => mst.MovieSeriesId);
+                .HasForeignKey(mst => mst.movie_series_id);
 
             modelBuilder.Entity<MovieSeriesTag>()
                 .HasOne(mst => mst.Tag)
                 .WithMany(t => t.MovieSeriesTags)
-                .HasForeignKey(mst => mst.TagId);
+                .HasForeignKey(mst => mst.tag_id);
         }
     }
 }

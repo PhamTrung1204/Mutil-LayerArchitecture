@@ -31,7 +31,7 @@ namespace MovieSeries.DataAccessLayer.Repositories
             return await _context.MovieSeriesTags
                 .Include(mst => mst.Movie)
                 .Include(mst => mst.Tag)
-                .FirstOrDefaultAsync(mst => mst.MovieSeriesId == movieSeriesId && mst.TagId == tagId);
+                .FirstOrDefaultAsync(mst => mst.movie_series_id == movieSeriesId && mst.tag_id == tagId);
         }
 
         public async Task AddAsync(MovieSeriesTag movieSeriesTag)

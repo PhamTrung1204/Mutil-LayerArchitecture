@@ -22,10 +22,10 @@ namespace MovieSeries.Tests.Services
         public async Task AddMovieAsync_ShouldCallRepositoryAddAsync()
         {
             // Arrange
-            var movie = new Movie
+            var movie = new MoviesSeries
             {
-                Title = "Inception",
-                Genre = "Sci-Fi"
+                title = "Inception",
+                genre = "Sci-Fi"
             };
             _repositoryMock.Setup(repo =>
            repo.AddMovieAsync(movie)).Returns(Task.CompletedTask);
@@ -39,8 +39,8 @@ namespace MovieSeries.Tests.Services
         public async Task GetAllMoviesAsync_ShouldReturnListOfMovies()
         {
             // Arrange
-            var movies = new List<Movie> { new Movie { Title =
-"Inception" }, new Movie { Title = "The Matrix" } };
+            var movies = new List<MoviesSeries> { new MoviesSeries { title =
+"Inception" }, new MoviesSeries { title = "The Matrix" } };
             _repositoryMock.Setup(repo =>
            repo.GetAllMoviesAsync()).ReturnsAsync(movies);
             // Act

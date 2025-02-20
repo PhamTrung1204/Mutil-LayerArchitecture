@@ -31,7 +31,7 @@ namespace MovieSeries.DataAccessLayer.Repositories
             return await _context.Users
                 .Include(u => u.Reviews)
                 .Include(u => u.Ratings)
-                .FirstOrDefaultAsync(u => u.Id == id);
+                .FirstOrDefaultAsync(u => u.user_id == id);
         }
 
         public async Task AddAsync(User user)

@@ -38,13 +38,13 @@ namespace MovieSeries.API.Controllers
                 return BadRequest(ModelState);
 
             await _tagService.AddTagAsync(tag);
-            return CreatedAtAction(nameof(GetTag), new { id = tag.Id }, tag);
+            return CreatedAtAction(nameof(GetTag), new { id = tag.tag_id }, tag);
         }
 
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateTag(int id, [FromBody] Tag tag)
         {
-            if (id != tag.Id)
+            if (id != tag.tag_id)
                 return BadRequest("ID không khớp.");
 
             await _tagService.UpdateTagAsync(tag);

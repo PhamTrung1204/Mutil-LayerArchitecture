@@ -9,8 +9,8 @@ namespace MovieSeries.DataAccessLayer.Repositories.Interfaces
 {
     public interface IMovieRepository
     {
-        Task<IEnumerable<Movie>> GetAllMoviesAsync();
-        Task AddMovieAsync(Movie movie);
-        Task<IEnumerable<Movie>> GetTopRatedMoviesWithSpAsync(int topCount);
+        Task<IEnumerable<MoviesSeries>> GetAllMoviesAsync();
+        Task AddMovieAsync(MoviesSeries movie);
+        Task<IEnumerable<MoviesSeries>> GetTopRatedMoviesWithSpAsync(int topCount);
     }
 }

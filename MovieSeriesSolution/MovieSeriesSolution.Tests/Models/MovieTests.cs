@@ -15,7 +15,7 @@ namespace MovieSeriesSolution.Tests.Models
         public void Movie_ShouldRequireTitle()
         {
             // Arrange
-            var movie = new Movie { Genre = "Sci-Fi" }; // Title is missing
+            var movie = new MoviesSeries { genre = "Sci-Fi" }; // Title is missing
              // Act
              var validationResults = ValidateModel(movie);
             // Assert
@@ -26,7 +26,7 @@ namespace MovieSeriesSolution.Tests.Models
         public void Movie_ShouldRequireGenre()
         {
             // Arrange
-            var movie = new Movie { Title = "Inception" }; // Genre is missing
+            var movie = new MoviesSeries { title = "Inception" }; // Genre is missing
              // Act
              var validationResults = ValidateModel(movie);
             // Assert

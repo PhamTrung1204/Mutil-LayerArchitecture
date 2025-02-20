@@ -36,11 +36,11 @@ namespace MovieSeries.API.Controllers
 
         // POST: api/movie
         [HttpPost]
-        public async Task<IActionResult> AddMovie([FromBody] Movie movie)
+        public async Task<IActionResult> AddMovie([FromBody] MoviesSeries movie)
         {
             await _movieService.AddMovieAsync(movie);
             // Có thể trả về CreatedAtAction với đường dẫn đến GetMovie nếu muốn
-            return CreatedAtAction(nameof(GetMovie), new { id = movie.Id }, movie);
+            return CreatedAtAction(nameof(GetMovie), new { id = movie.movie_series_id }, movie);
         }
     }
 }

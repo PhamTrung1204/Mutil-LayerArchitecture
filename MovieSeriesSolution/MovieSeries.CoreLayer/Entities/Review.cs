@@ -9,23 +9,17 @@ namespace MovieSeries.CoreLayer.Entities
 {
     public class Review
     {
-        public int Id { get; set; }
+        public int review_id { get; set; }
 
         [Required(ErrorMessage = "UserId là bắt buộc.")]
-        public int UserId { get; set; }
-
-        // Navigation property: liên kết đến User
-        public User User { get; set; }
+        public int user_id { get; set; }
 
         [Required(ErrorMessage = "MovieSeriesId là bắt buộc.")]
-        public int MovieSeriesId { get; set; }
-
-        // Navigation property: liên kết đến Movie (hoặc Film)
-        public Movie Movie { get; set; }
+        public int movie_series_id { get; set; }
 
         [Required(ErrorMessage = "ReviewText là bắt buộc.")]
-        public string ReviewText { get; set; }
+        public string review_text { get; set; }
 
-        public DateTime ReviewDate { get; set; } = DateTime.Now;
+        public DateTime review_date { get; set; } = DateTime.Now;
     }
 }

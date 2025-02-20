@@ -24,8 +24,8 @@ namespace MovieSeriesSolution.Tests.Controllers
         public async Task GetMovies_ReturnsOkResult_WithListOfMovies()
         {
             // Arrange
-            var movies = new List<Movie> { new Movie {Id =1, Title =
-"Inception" }, new Movie {Id =2, Title = "The Matrix" } };
+            var movies = new List<MoviesSeries> { new MoviesSeries {movie_series_id =1, title =
+"Inception" }, new MoviesSeries {movie_series_id =2, title = "The Matrix" } };
             _serviceMock.Setup(s =>
            s.GetAllMoviesAsync()).ReturnsAsync(movies);
             // Act
@@ -39,10 +39,10 @@ namespace MovieSeriesSolution.Tests.Controllers
        AddMovie_ReturnsCreatedAtActionResult_WhenMovieIsValid()
         {
             // Arrange
-            var movie = new Movie
+            var movie = new MoviesSeries
             {
-                Title = "Inception",
-                Genre = "Sci-Fi"
+                title = "Inception",
+                genre = "Sci-Fi"
             };
             _serviceMock.Setup(s =>
            s.AddMovieAsync(movie)).Returns(Task.CompletedTask);

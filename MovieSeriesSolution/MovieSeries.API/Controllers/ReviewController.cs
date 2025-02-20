@@ -38,13 +38,13 @@ namespace MovieSeries.API.Controllers
                 return BadRequest(ModelState);
 
             await _reviewService.AddReviewAsync(review);
-            return CreatedAtAction(nameof(GetReview), new { id = review.Id }, review);
+            return CreatedAtAction(nameof(GetReview), new { id = review.review_id }, review);
         }
 
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateReview(int id, [FromBody] Review review)
         {
-            if (id != review.Id)
+            if (id != review.review_id)
                 return BadRequest("ID không khớp.");
 
             await _reviewService.UpdateReviewAsync(review);

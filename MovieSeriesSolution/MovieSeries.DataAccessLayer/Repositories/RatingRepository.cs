@@ -21,17 +21,15 @@ namespace MovieSeries.DataAccessLayer.Repositories
         public async Task<IEnumerable<Ratings>> GetAllAsync()
         {
             return await _context.Ratings
-                .Include(r => r.User)
-            .Include(r => r.Movie)
+                .Include(r => r.user_id)
                 .ToListAsync();
         }
 
         public async Task<Ratings> GetByIdAsync(int id)
         {
             return await _context.Ratings
-                .Include(r => r.User)
-            .Include(r => r.Movie)
-                .FirstOrDefaultAsync(r => r.Id == id);
+                .Include(r => r.user_id)
+                .FirstOrDefaultAsync(r => r.rating_id == id);
         }
 
         public async Task AddAsync(Ratings rating)

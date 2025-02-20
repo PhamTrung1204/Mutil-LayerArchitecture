@@ -7921,23 +7921,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\84967\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Đại học UEH\\Học kỳ 6 UEH\\Kiến trúc phần mềm hướng dịch vụ\\Bài tập upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.BusinessLayer\\MovieSeries.BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.BusinessLayer\\MovieSeries.BusinessLayer.csproj",
       "projectName": "MovieSeries.BusinessLayer",
-      "projectPath": "D:\\Đại học UEH\\Học kỳ 6 UEH\\Kiến trúc phần mềm hướng dịch vụ\\Bài tập upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.BusinessLayer\\MovieSeries.BusinessLayer.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Đại học UEH\\Học kỳ 6 UEH\\Kiến trúc phần mềm hướng dịch vụ\\Bài tập upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.BusinessLayer\\obj\\",
+      "projectPath": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.BusinessLayer\\MovieSeries.BusinessLayer.csproj",
+      "packagesPath": "C:\\Users\\84967\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\84967\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7952,8 +7952,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Đại học UEH\\Học kỳ 6 UEH\\Kiến trúc phần mềm hướng dịch vụ\\Bài tập upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj": {
-              "projectPath": "D:\\Đại học UEH\\Học kỳ 6 UEH\\Kiến trúc phần mềm hướng dịch vụ\\Bài tập upload github\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj"
+            "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj": {
+              "projectPath": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj"
             }
           }
         }

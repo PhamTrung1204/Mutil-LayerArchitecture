@@ -14,13 +14,13 @@ namespace MovieSeries.ServiceLayer.Services
         }
 
         // Phương thức lấy tất cả phim
-        public async Task<IEnumerable<Movie>> GetAllMoviesAsync()
+        public async Task<IEnumerable<MoviesSeries>> GetAllMoviesAsync()
         {
             return await _movieRepository.GetAllMoviesAsync();
         }
 
         // Phương thức thêm phim mới (có thể tích hợp thêm logic kiểm tra, ví dụ kiểm tra trùng tiêu đề)
-        public async Task AddMovieAsync(Movie movie)
+        public async Task AddMovieAsync(MoviesSeries movie)
         {
             // Ví dụ: kiểm tra nếu đã tồn tại phim có tiêu đề trùng lặp (logic bổ sung nếu cần)
             // Nếu hợp lệ, gọi repository để thêm phim
@@ -28,7 +28,7 @@ namespace MovieSeries.ServiceLayer.Services
         }
 
         // Phương thức gọi stored procedure lấy top phim được đánh giá cao
-        public async Task<IEnumerable<Movie>> GetTopRatedMoviesWithSpAsync(int topCount)
+        public async Task<IEnumerable<MoviesSeries>> GetTopRatedMoviesWithSpAsync(int topCount)
         {
             return await _movieRepository.GetTopRatedMoviesWithSpAsync(topCount);
         }
