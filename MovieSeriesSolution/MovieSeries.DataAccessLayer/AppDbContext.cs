@@ -13,6 +13,7 @@ namespace MovieSeries.DataAccessLayer
         public DbSet<Tag> Tags { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<MovieSeriesTag> MovieSeriesTags { get; set; }
+        public DbSet<Ratings> Ratings { get; set; }
 
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 

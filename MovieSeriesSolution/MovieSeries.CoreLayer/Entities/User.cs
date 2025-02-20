@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace MovieSeries.CoreLayer.Entities
 {
@@ -11,13 +12,15 @@ namespace MovieSeries.CoreLayer.Entities
         // Primary key, ánh xạ với user_id
         public int Id { get; set; }
 
-        // Tên người dùng, không được null
+        [Required(ErrorMessage = "Username là bắt buộc.")]
         public string Username { get; set; }
 
-        // Email, phải là duy nhất
+        [Required(ErrorMessage = "Email là bắt buộc.")]
+        [EmailAddress(ErrorMessage = "Email không hợp lệ.")]
         public string Email { get; set; }
 
-        // Ngày giờ đăng ký (được thiết lập mặc định bằng GETDATE() trong SQL)
-        public DateTime CreatedAt { get; set; }
+        // Quan hệ 1-nhiều với Review và Rating
+        public ICollection<Review> Reviews { get; set; }
+        public ICollection<Ratings> Ratings { get; set; }
     }
 }
