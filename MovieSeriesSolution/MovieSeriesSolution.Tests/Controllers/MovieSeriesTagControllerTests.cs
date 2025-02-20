@@ -14,26 +14,28 @@ namespace MovieSeriesSolution.Tests.Controllers
 {
     public class MovieSeriesTagControllerTests
     {
-        private readonly Mock<IMovieSeriesTagRepository> _repoMock;
+        private readonly Mock<IMovieSeriesTagService> _serviceMock;
         private readonly MovieSeriesTagController _controller;
 
         public MovieSeriesTagControllerTests()
         {
-            _repoMock = new Mock<IMovieSeriesTagRepository>();
-            _controller = new MovieSeriesTagController(_repoMock.Object);
+            // Tạo mock service
+            _serviceMock = new Mock<IMovieSeriesTagService>();
+            // Inject mock service vào controller
+            _controller = new MovieSeriesTagController(_serviceMock.Object);
         }
 
         [Fact]
-        public async Task GetAll_ShouldReturnOk_WithListOfData()
+        public async Task GetAll_ShouldReturnOk_WithListOfAssociations()
         {
             // Arrange
             var mockList = new List<MovieSeriesTag>
             {
                 new MovieSeriesTag { movie_series_id=1, tag_id=2 },
-                new MovieSeriesTag { movie_series_id=1, tag_id=3 },
+                new MovieSeriesTag { movie_series_id=1, tag_id=3 }
             };
-            _repoMock.Setup(r => r.GetAllAsync())
-                     .ReturnsAsync(mockList);
+            _serviceMock.Setup(s => s.GetAllAsync())
+                        .ReturnsAsync(mockList);
 
             // Act
             var result = await _controller.GetAll();
@@ -44,30 +46,30 @@ namespace MovieSeriesSolution.Tests.Controllers
         }
 
         [Fact]
-        public async Task GetMST_ShouldReturnOk_WhenFound()
+        public async Task Get_ShouldReturnOk_WhenFound()
         {
             // Arrange
-            var mst = new MovieSeriesTag { movie_series_id = 10, tag_id = 20 };
-            _repoMock.Setup(r => r.GetByIdsAsync(10, 20))
-                     .ReturnsAsync(mst);
+            var association = new MovieSeriesTag { movie_series_id = 5, tag_id = 10 };
+            _serviceMock.Setup(s => s.GetByIdsAsync(5, 10))
+                        .ReturnsAsync(association);
 
             // Act
-            var result = await _controller.GetMST(10, 20);
+            var result = await _controller.Get(5, 10);
 
             // Assert
             var okResult = Assert.IsType<OkObjectResult>(result);
-            Assert.Equal(mst, okResult.Value);
+            Assert.Equal(association, okResult.Value);
         }
 
         [Fact]
-        public async Task GetMST_ShouldReturnNotFound_WhenNull()
+        public async Task Get_ShouldReturnNotFound_WhenNull()
         {
             // Arrange
-            _repoMock.Setup(r => r.GetByIdsAsync(99, 99))
-                     .ReturnsAsync((MovieSeriesTag)null);
+            _serviceMock.Setup(s => s.GetByIdsAsync(99, 99))
+                        .ReturnsAsync((MovieSeriesTag)null);
 
             // Act
-            var result = await _controller.GetMST(99, 99);
+            var result = await _controller.Get(99, 99);
 
             // Assert
             Assert.IsType<NotFoundResult>(result);
@@ -78,8 +80,8 @@ namespace MovieSeriesSolution.Tests.Controllers
         {
             // Arrange
             var mst = new MovieSeriesTag { movie_series_id = 1, tag_id = 2 };
-            _repoMock.Setup(r => r.AddAsync(mst))
-                     .Returns(Task.CompletedTask);
+            _serviceMock.Setup(s => s.AddAsync(mst))
+                        .Returns(Task.CompletedTask);
 
             // Act
             var result = await _controller.Create(mst);
@@ -95,8 +97,8 @@ namespace MovieSeriesSolution.Tests.Controllers
         {
             // Arrange
             var mst = new MovieSeriesTag { movie_series_id = 0, tag_id = 0 };
+            // Mô phỏng trường hợp ModelState ko hợp lệ
             _controller.ModelState.AddModelError("movie_series_id", "Required");
-            // Mô phỏng model state lỗi
 
             // Act
             var result = await _controller.Create(mst);
@@ -110,8 +112,8 @@ namespace MovieSeriesSolution.Tests.Controllers
         public async Task Delete_ShouldReturnNoContent()
         {
             // Arrange
-            _repoMock.Setup(r => r.DeleteAsync(1, 2))
-                     .Returns(Task.CompletedTask);
+            _serviceMock.Setup(s => s.DeleteAsync(1, 2))
+                        .Returns(Task.CompletedTask);
 
             // Act
             var result = await _controller.Delete(1, 2);
