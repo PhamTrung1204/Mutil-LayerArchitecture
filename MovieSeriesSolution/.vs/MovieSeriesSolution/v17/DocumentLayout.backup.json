@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\phamtrung\\desktop\\soa-multilayerarchitecture\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\phamtrung\\desktop\\soa-multilayerarchitecture\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\movieseriestagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\movieseriestagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\phamtrung\\desktop\\soa-multilayerarchitecture\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\moviesseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\moviesseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\phamtrung\\desktop\\soa-multilayerarchitecture\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\ratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\ratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\phamtrung\\desktop\\soa-multilayerarchitecture\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\phamtrung\\desktop\\soa-multilayerarchitecture\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\phamtrung\\desktop\\soa-multilayerarchitecture\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|c:\\users\\phamtrung\\desktop\\soa-multilayerarchitecture\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|solutionrelative:movieseries.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\phamtrung\\desktop\\soa-multilayerarchitecture\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\movieseriestagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\movieseriestagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\phamtrung\\desktop\\soa-multilayerarchitecture\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\moviesseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\moviesseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|c:\\users\\phamtrung\\desktop\\soa-multilayerarchitecture\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,24 +79,8 @@
       "RelativeMoniker": "D:0:0:{25C290D8-14C2-4CC1-A6E5-A469FB75599F}|MovieSeries.ServiceLayer\\MovieSeries.ServiceLayer.csproj|solutionrelative:movieseries.servicelayer\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\phamtrung\\desktop\\soa-multilayerarchitecture\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\phamtrung\\desktop\\soa-multilayerarchitecture\\mutil-layerarchitecture\\movieseriessolution\\movieseries.dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\phamtrung\\desktop\\soa-multilayerarchitecture\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\ratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\ratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\phamtrung\\desktop\\soa-multilayerarchitecture\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\phamtrung\\desktop\\soa-multilayerarchitecture\\mutil-layerarchitecture\\movieseriessolution\\movieseries.corelayer\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEB1429D-5ADB-4685-878C-F74A731C6850}|MovieSeries.API\\MovieSeries.API.csproj|c:\\users\\phamtrung\\desktop\\soa-multilayerarchitecture\\mutil-layerarchitecture\\movieseriessolution\\movieseries.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -130,57 +130,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Ratings.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Ratings.cs",
+              "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\Ratings.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Ratings.cs",
+              "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\Ratings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:29:54.445Z",
+              "WhenOpened": "2025-02-20T12:36:56.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\User.cs",
-              "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MoviesSeries.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\MoviesSeries.cs",
+              "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\MoviesSeries.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\MoviesSeries.cs",
+              "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\MoviesSeries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:28:31.373Z"
+              "WhenOpened": "2025-02-20T12:27:47.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MovieController.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\MovieController.cs",
-              "RelativeDocumentMoniker": "MovieSeries.API\\Controllers\\MovieController.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\MovieController.cs",
-              "RelativeToolTip": "MovieSeries.API\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwBEAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Tag.cs",
+              "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:15:01.66Z"
+              "WhenOpened": "2025-02-20T12:45:59.485Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "MovieSeries.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "MovieSeries.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-20T13:14:13.967Z",
+              "Title": "MovieSeriesTagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\MovieSeriesTagRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\MovieSeriesTagRepository.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\MovieSeriesTagRepository.cs",
+              "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\MovieSeriesTagRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:39:52.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\MovieRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:44:28.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Review.cs",
+              "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\Review.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:48:44.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MovieSeriesTag.cs",
               "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\MovieSeriesTag.cs",
               "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\MovieSeriesTag.cs",
@@ -193,19 +221,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MovieSeriesTagRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\MovieSeriesTagRepository.cs",
-              "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\MovieSeriesTagRepository.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\MovieSeriesTagRepository.cs",
-              "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\MovieSeriesTagRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:39:52.802Z"
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MovieSeries.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MovieSeries.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T13:14:13.967Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieSeries.API\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieSeries.API\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:15:01.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\User.cs",
+              "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:28:31.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:29:54.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "MovieSeries.API\\Controllers\\UserController.cs",
@@ -217,19 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MoviesSeries.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\MoviesSeries.cs",
-              "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\MoviesSeries.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\MoviesSeries.cs",
-              "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\MoviesSeries.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:27:47.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "TagController.cs",
               "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\TagController.cs",
               "RelativeDocumentMoniker": "MovieSeries.API\\Controllers\\TagController.cs",
@@ -241,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "ReviewController.cs",
               "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\ReviewController.cs",
               "RelativeDocumentMoniker": "MovieSeries.API\\Controllers\\ReviewController.cs",
@@ -253,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "RatingController.cs",
               "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\RatingController.cs",
               "RelativeDocumentMoniker": "MovieSeries.API\\Controllers\\RatingController.cs",
@@ -265,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "IReviewService.cs",
               "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IReviewService.cs",
               "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\IReviewService.cs",
@@ -277,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "MovieSeriesTagController.cs",
               "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.API\\Controllers\\MovieSeriesTagController.cs",
               "RelativeDocumentMoniker": "MovieSeries.API\\Controllers\\MovieSeriesTagController.cs",
@@ -289,19 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\MovieRepository.cs",
-              "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\MovieRepository.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\MovieRepository.cs",
-              "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\MovieRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:44:28.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "IMovieService.cs",
               "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IMovieService.cs",
               "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\IMovieService.cs",
@@ -313,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "IRatingService.cs",
               "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.ServiceLayer\\Services\\IRatingService.cs",
               "RelativeDocumentMoniker": "MovieSeries.ServiceLayer\\Services\\IRatingService.cs",
@@ -325,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\AppDbContext.cs",
@@ -346,42 +386,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T13:52:55.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Ratings.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Ratings.cs",
-              "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\Ratings.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Ratings.cs",
-              "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\Ratings.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:36:56.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Tag.cs",
-              "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\Tag.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Tag.cs",
-              "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\Tag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:45:59.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Review.cs",
-              "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\Review.cs",
-              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\SOA-MultiLayerArchitecture\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Review.cs",
-              "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\Review.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:48:44.868Z"
             },
             {
               "$type": "Document",
