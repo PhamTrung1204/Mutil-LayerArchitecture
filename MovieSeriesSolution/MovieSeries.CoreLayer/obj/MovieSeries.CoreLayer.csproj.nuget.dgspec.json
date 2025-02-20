@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\84967\\Downloads\\SOA_BTNhóm_200225\\MovieSeriesSolution\\MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj": {}
+    "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\84967\\Downloads\\SOA_BTNhóm_200225\\MovieSeriesSolution\\MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj": {
+    "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\84967\\Downloads\\SOA_BTNhóm_200225\\MovieSeriesSolution\\MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj",
+        "projectUniqueName": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj",
         "projectName": "MovieSeries.CoreLayer",
-        "projectPath": "C:\\Users\\84967\\Downloads\\SOA_BTNhóm_200225\\MovieSeriesSolution\\MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj",
+        "projectPath": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj",
         "packagesPath": "C:\\Users\\84967\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\84967\\Downloads\\SOA_BTNhóm_200225\\MovieSeriesSolution\\MovieSeries.CoreLayer\\obj\\",
+        "outputPath": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

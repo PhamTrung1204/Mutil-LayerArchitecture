@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\84967\\Downloads\\SOA_BTNh\u00F3m_200225\\MovieSeriesSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\84967\\downloads\\soa_btnh\u00F3m_200225\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\84967\\downloads\\soa_btnh\u00F3m_200225\\movieseriessolution\\movieseries.dataaccesslayer\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|c:\\users\\84967\\downloads\\soa_btnh\u00F3m_200225\\movieseriessolution\\movieseries.dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C5CAB7B-E905-4D2C-8D4D-4EB530501C80}|MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj|solutionrelative:movieseries.dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\84967\\downloads\\soa_btnh\u00F3m_200225\\movieseriessolution\\movieseries.corelayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\84967\\downloads\\soa_btnh\u00F3m_200225\\movieseriessolution\\movieseries.corelayer\\entities\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\84967\\downloads\\soa_btnh\u00F3m_200225\\movieseriessolution\\movieseries.corelayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\84967\\downloads\\soa_btnh\u00F3m_200225\\movieseriessolution\\movieseries.corelayer\\entities\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\84967\\downloads\\soa_btnh\u00F3m_200225\\movieseriessolution\\movieseries.corelayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|solutionrelative:movieseries.corelayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EA483EC-0336-4B2A-8897-A48B85CBC77F}|MovieSeries.CoreLayer\\MovieSeries.CoreLayer.csproj|c:\\users\\84967\\downloads\\soa_btnh\u00F3m_200225\\movieseriessolution\\movieseries.corelayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 285,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\84967\\Downloads\\SOA_BTNh\u00F3m_200225\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\User.cs",
               "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\User.cs",
@@ -48,13 +56,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\SOA_BTNh\u00F3m_200225\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\84967\\Downloads\\SOA_BTNh\u00F3m_200225\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\MovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:18:48.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\84967\\Downloads\\SOA_BTNh\u00F3m_200225\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\84967\\Downloads\\SOA_BTNh\u00F3m_200225\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "RelativeToolTip": "MovieSeries.DataAccessLayer\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:18:37.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Users\\84967\\Downloads\\SOA_BTNh\u00F3m_200225\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Tag.cs",
               "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\Tag.cs",
               "ToolTip": "C:\\Users\\84967\\Downloads\\SOA_BTNh\u00F3m_200225\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\Tag.cs",
               "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\Tag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T07:15:25.32Z",
               "EditorCaption": ""
@@ -67,14 +101,14 @@
               "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Entities\\MovieSeriesTag.cs",
               "ToolTip": "C:\\Users\\84967\\Downloads\\SOA_BTNh\u00F3m_200225\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Entities\\MovieSeriesTag.cs",
               "RelativeToolTip": "MovieSeries.CoreLayer\\Entities\\MovieSeriesTag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T07:13:58.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\84967\\Downloads\\SOA_BTNh\u00F3m_200225\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MovieSeries.DataAccessLayer\\AppDbContext.cs",
@@ -91,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\84967\\Downloads\\SOA_BTNh\u00F3m_200225\\MovieSeriesSolution\\MovieSeries.CoreLayer\\Class1.cs",
               "RelativeDocumentMoniker": "MovieSeries.CoreLayer\\Class1.cs",

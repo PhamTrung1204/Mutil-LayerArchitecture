@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GPVwFcQwmew=",
+  "dgSpecHash": "cMxsovdq3xQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\84967\\Downloads\\SOA_BTNhóm_200225\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\84967\\Downloads\\GIT CLONE HTTP\\Mutil-LayerArchitecture\\MovieSeriesSolution\\MovieSeries.DataAccessLayer\\MovieSeries.DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\84967\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\84967\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
